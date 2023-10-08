@@ -3086,9 +3086,6 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .swiper-container-fade .swiper-slide-active,
-
-}
-
 .swiper-container-fade .swiper-slide-active .swiper-slide-active {
 	pointer-events: auto;
 }
@@ -9414,7 +9411,6 @@ div.jp-creative .jp-playlist-item {
 	opacity: 0.25;
 }
 
-
 .slick-prev:before, .slick-next:before {
 	font-family: "Source Code Pro", Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 	font-size: 20px;
@@ -9780,9 +9776,9 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, [class^=
 
 h1,
 .heading-1 {
-	font-size: 52px;
+	font-size: 45px;
 	line-height: 1.2;
-	font-family: "Nothing You Could Do", "Times New Roman", Times, serif;
+	font-family: "Playfair Display", "Times New Roman", Times, serif;
 	letter-spacing: -.05em;
 	text-transform: none;
 }
@@ -9790,7 +9786,7 @@ h1,
 @media (min-width: 992px) {
 	h1,
 	.heading-1 {
-		font-size: 100px;
+		font-size: 80px;
 		line-height: 0.7;
 	}
 }
@@ -9853,14 +9849,14 @@ h4 a:hover,
 
 h5,
 .heading-5 {
-	font-size: 18px;
+	font-size: 40 px;
 	line-height: 1.44444;
 	letter-spacing: .03em;
 }
 
 h6,
 .heading-6 {
-	font-size: 16px;
+	font-size: 25 px;
 	line-height: 1.5;
 	letter-spacing: .1em;
 }
